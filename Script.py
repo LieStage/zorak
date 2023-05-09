@@ -194,7 +194,7 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 𝙵𝙻𝚞𝚛𝚘𝚜𝚌𝚎𝚗𝚝 Mᴏᴅᴇ :  <a href="https://t.me/addtheme/Tbone">Tᴏᴜᴄʜ</a>
+🔅 BLuE MaDnEssTheme :  <a href="https://t.me/addtheme/BlueeMadness">Tᴏᴜᴄʜ</a>
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
